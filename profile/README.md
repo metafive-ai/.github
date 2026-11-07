@@ -2,7 +2,7 @@
 
 Platform engineering, FinOps, and governance for AI-assisted delivery.
 
-Website: [metafive.ai](https://www.metafive.ai)
+Website: [www.metafive.ai](https://www.metafive.ai)
 
 ## Flagships
 
@@ -25,4 +25,4 @@ python scripts/unused_resources.py --region eu-west-1 --output unused.json
 
 ## Contact
 
-[mo@metafive.ai](mailto:mo@metafive.ai) · [LinkedIn](https://linkedin.com/in/benlakhoua)
+[mo@metafive.ai](mailto:mo@metafive.ai) · [www.metafive.ai](https://www.metafive.ai) · [LinkedIn](https://www.linkedin.com/in/mohamed-ben-lakhoua/)
